@@ -1,0 +1,202 @@
+﻿________________
+
+
+📘 INTERNAL KNOWLEDGE BASE
+Referral, Client Engagement & Related Policies
+For Internal & AI Agent Use Only
+________________
+
+
+1. COMPANY OVERVIEW
+The company is a registered stock broking and investment services firm operating under applicable Indian regulatory frameworks, including SEBI guidelines and stock exchange regulations. The firm provides services such as:
+* Equity trading (cash & derivatives)
+* Mutual fund investments
+* IPO access
+* Portfolio tracking tools
+* Market insights and educational content
+The company operates with a client-first philosophy, prioritizing transparency, regulatory compliance, and ethical conduct in all communications.
+This document serves as an authoritative reference for responding to client queries related to referrals, incentives, eligibility, rewards, and associated policies.
+________________
+
+
+2. INTRODUCTION TO THE REFERRAL PROGRAM
+2.1 Purpose of the Referral Program
+The referral program has been introduced to:
+* Encourage existing clients to refer new users
+* Reward both the referrer and the referee
+* Expand the client base organically
+* Maintain compliance with all regulatory requirements
+The program is designed to be simple, transparent, and incentive-driven, without misleading claims or guaranteed returns.
+________________
+
+
+2.2 Launch Timeline
+* Referral program launch date: 1 January 2026
+* Program is ongoing unless officially discontinued or modified
+* Any changes to the program will be communicated via:
+   * Email
+   * Official website
+   * In-app notifications
+________________
+
+
+3. REFERRAL PROGRAM STRUCTURE
+3.1 Eligibility Criteria
+Referrer Eligibility
+A referrer must:
+* Be an existing registered client of the company
+* Have a verified trading account
+* Be KYC-compliant
+* Not have any account suspension or regulatory restrictions
+Referee Eligibility
+A referee must:
+* Be a new user (no prior account with the company)
+* Complete full KYC verification
+* Open a trading account using the referral link or referral code
+* Not be an immediate family member of an employee (as per compliance rules)
+________________
+
+
+3.2 Referral Process
+1. Existing client generates a referral link or code
+2. Referee signs up using the referral link/code
+3. Referee completes:
+   * Account opening
+   * KYC verification
+4. Referee performs the first qualifying trade
+5. Referral reward is credited after validation
+________________
+
+
+3.3 Qualifying Action
+A referral is considered successful only when:
+* The referee completes KYC successfully
+* The referee executes at least one trade (buy or sell)
+* The trade value is ₹500 or more
+Merely signing up without trading does not qualify for referral benefits.
+________________
+
+
+4. REFERRAL REWARDS & INCENTIVES
+4.1 Reward Structure
+Participant
+	Reward Type
+	Reward Value
+	Referrer
+	Trading credits
+	₹300
+	Referee
+	Brokerage discount
+	Up to ₹300
+	Rewards are non-cash and cannot be withdrawn as money.
+________________
+
+
+4.2 Reward Crediting Timeline
+* Rewards are credited within 7 working days
+* Crediting occurs only after:
+   * Trade verification
+   * Compliance checks
+* Delays may occur during high-volume periods
+________________
+
+
+4.3 Usage of Rewards
+Trading credits:
+* Can be used to offset brokerage charges
+* Expire after 90 days
+* Cannot be transferred to another user
+* Cannot be combined with certain promotional offers
+Unused credits expire automatically after the validity period.
+________________
+
+
+5. LIMITATIONS & RESTRICTIONS
+5.1 Referral Limits
+* Maximum referrals per client: 20 per financial year
+* Excess referrals beyond the limit will not earn rewards
+* The company reserves the right to revise referral limits
+________________
+
+
+5.2 Prohibited Activities
+The following actions are strictly prohibited:
+* Self-referrals
+* Creating multiple accounts
+* Fake or fraudulent referrals
+* Manipulating trades solely to gain rewards
+* Public promotion in misleading or non-compliant ways
+Violation may result in:
+* Reward cancellation
+* Account suspension
+* Permanent termination in severe cases
+________________
+
+
+6. COMPLIANCE & REGULATORY CONSIDERATIONS
+* The referral program complies with SEBI guidelines
+* Rewards are not investment advice
+* Referral incentives do not guarantee profits
+* Market risks apply to all trades
+The company does not provide assured returns or profit guarantees under any referral or promotional scheme.
+________________
+
+
+7. CLIENT COMMUNICATION GUIDELINES
+7.1 Tone & Language
+All client communications must be:
+* Professional
+* Neutral
+* Clear and factual
+* Non-promissory
+* Non-misleading
+Avoid:
+* Overly casual language
+* Financial guarantees
+* Speculative statements
+________________
+
+
+7.2 Escalation Scenarios
+Queries must be escalated when:
+* Referral reward not credited after 10 working days
+* Dispute regarding eligibility
+* Suspected fraudulent activity
+* Technical errors during signup
+Escalation channel: support@companydomain.com
+________________
+
+
+8. FREQUENT CLIENT QUERIES (REFERENCE)
+Q1. Can I refer multiple friends?
+Yes, up to 20 referrals per financial year are allowed.
+Q2. When will I receive my referral reward?
+Within 7 working days after the referee completes the qualifying trade.
+Q3. Can referral rewards be withdrawn?
+No. Rewards are non-cash and can only be used for brokerage discounts.
+Q4. What if my referral does not trade?
+Referral benefits will not be credited until a qualifying trade is completed.
+________________
+
+
+9. MODIFICATIONS & DISCLAIMERS
+* The company reserves the right to modify or discontinue the referral program without prior notice
+* All decisions regarding eligibility and rewards are final
+* Any disputes are subject to Indian jurisdiction
+________________
+
+
+10. DOCUMENT VERSIONING
+* Document Version: 1.0
+* Last Updated: January 2026
+* Intended Use: Internal AI Agent & Support Team Reference
+________________
+
+
+🔐 IMPORTANT AI AGENT INSTRUCTION (META)
+If a query:
+* Is not covered in this document
+* Requires interpretation beyond stated policy
+The AI agent must respond:
+“Thank you for reaching out. Based on the available information, this specific detail is not currently covered. Please allow us to connect you with our support team for further assistance.”
+________________
